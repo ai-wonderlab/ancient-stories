@@ -1,0 +1,125 @@
+{
+  "title": "Gilgamesh — The One Who Sought Immortality",
+  "myth": "gilgamesh",
+  "language": "en",
+  "aspect": "9:16",
+  "ratio": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "model": "dreamina-seedance-2-0-260128",
+  "voice_note": "Single calm male narrator, present tense, abstract, one idea per line. Spoken English VO is the dialogue in double quotes. No music melody — only a low breathing drone and ancient cuneiform-phoneme texture as ambience.",
+  "shots": [
+    {
+      "id": "F01",
+      "frame": "F01-uruk-wall.png",
+      "zone": "ochre",
+      "duration": 6,
+      "vo": "Look what he built.",
+      "motion": "Static composition, slow 2% push-in toward the great mud-brick wall of Uruk. The sparse ochre dots at the wall's edge drift and shimmer almost imperceptibly. The tiny king at the base holds still. Dust hangs in warm light. No camera shake."
+    },
+    {
+      "id": "F02",
+      "frame": "F02-king-empty.png",
+      "zone": "ochre",
+      "duration": 6,
+      "vo": "Two-thirds god. And still, nothing fills him.",
+      "motion": "Hold on the towering crowned king in silhouette. The tiny toy-like city at his feet sways with faint life. The king is motionless, immense, restless. Very slow push-in. Ochre dots drift at his trailing edge."
+    },
+    {
+      "id": "F03",
+      "frame": "F03-enkidu-wild.png",
+      "zone": "ochre",
+      "duration": 6,
+      "vo": "The gods make his equal. Wild. Free.",
+      "motion": "The wild man Enkidu breathes among the calm animals. One animal slowly tilts its head. Grass-like hair stirs in a soft wind. Gentle, alive, unhurried. Sparse ochre dots drift at the edge."
+    },
+    {
+      "id": "F04",
+      "frame": "F04-becoming-one.png",
+      "zone": "ochre",
+      "duration": 6,
+      "vo": "They fight like enemies. And then, never part again.",
+      "motion": "The two equal figures press together; the dissolving dots between them breathe slowly like a single shared field, pulsing once. Stillness around them. Slow push-in."
+    },
+    {
+      "id": "F05",
+      "frame": "F05-cedar-forest.png",
+      "zone": "green-black",
+      "duration": 6,
+      "vo": "They go where no one dared. The forest of the gods.",
+      "motion": "The vast dark cedar mass looms. Foliage sways minutely; motes of light drift down through the canopy. The two tiny figures at the base step forward slowly. Ochre dots drift at the forest's edge. Quiet menace."
+    },
+    {
+      "id": "F06",
+      "frame": "F06-humbaba.png",
+      "zone": "green-black",
+      "duration": 6,
+      "vo": "They slay the guardian. They feel immortal.",
+      "motion": "The huge shadowed guardian Humbaba looms; its single lit eye flickers and holds. Everything else is frozen and dark. The tiny figures before it are still. Tension, no sudden motion."
+    },
+    {
+      "id": "F07",
+      "frame": "F07-enkidu-dies.png",
+      "zone": "ash",
+      "duration": 7,
+      "vo": "The gods demand payment. His friend fades.",
+      "motion": "The lying ash-grey figure slowly dissolves along its edge into solid grey dots that drift upward and away. The kneeling figure bows lower in grief. Near-monochrome. Heavy, slow, grieving stillness."
+    },
+    {
+      "id": "F08",
+      "frame": "F08-death-enters.png",
+      "zone": "ash",
+      "duration": 7,
+      "vo": "For the first time, he knows. He too will die.",
+      "motion": "The lone king runs across the vast empty ash void; dots break off from HIS OWN body and trail behind him, flickering. Overwhelming emptiness. Slow, dread-filled. Camera barely follows."
+    },
+    {
+      "id": "F09",
+      "frame": "F09-wandering.png",
+      "zone": "cold-blue",
+      "duration": 6,
+      "vo": "He leaves everything. He seeks what no one found. To never die.",
+      "motion": "The tiny skin-wrapped figure crosses the vast cold grey-blue waste. Slow push-in. A little dust drifts in the air. Immense loneliness, steady forward pull."
+    },
+    {
+      "id": "F10",
+      "frame": "F10-waters-of-death.png",
+      "zone": "cold-blue",
+      "duration": 6,
+      "vo": "Before him, the Waters of Death. He crosses.",
+      "motion": "The small boat glides across the cold grey-blue water; the surface ripples faintly; the silver horizon holds. The standing silhouette poles slowly. Calm, vast, fateful."
+    },
+    {
+      "id": "F11",
+      "frame": "F11-plant-of-life.png",
+      "zone": "cold-blue",
+      "duration": 6,
+      "vo": "On the seabed, the plant that turns back the years. He takes it.",
+      "motion": "The figure reaches down into the water toward the small plant; ripples spread from the hand. A faint glow on the plant. Held breath, gentle motion in the water only."
+    },
+    {
+      "id": "F12",
+      "frame": "F12-serpent.png",
+      "zone": "cold-blue",
+      "duration": 6,
+      "vo": "One moment. A serpent. And immortality is lost forever.",
+      "motion": "The serpent silhouette slides smoothly out of frame carrying the plant; the empty reaching hand behind goes still. Ochre dots drift away and thin out. A quiet, irreversible loss."
+    },
+    {
+      "id": "F13",
+      "frame": "F13-the-turn.png",
+      "zone": "ochre+lapis",
+      "duration": 8,
+      "vo": "He never found immortality. It stood before him all along.",
+      "motion": "The king stands again at the base of the great ochre wall, looking up. Everything freezes. The single deep lapis-blue light at the wall's edge slowly breathes and pulses — the only living colour. A half-second of stillness, then the light intensifies once. Reverent, climactic hold."
+    },
+    {
+      "id": "F14",
+      "frame": "F14-you.png",
+      "zone": "ochre+lapis",
+      "duration": 8,
+      "vo": "His story remained. Four thousand years. To you. Now.",
+      "motion": "The scattered ochre dots reverse inward and reassemble toward the centre into a single open eye; the deep lapis-blue core glows and pulses once toward the viewer. Calm, vast, intimate. The dissolve running backward. Final held breath."
+    }
+  ]
+}
